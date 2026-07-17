@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ocean Teal",
+    "hex": "#0F8B8D",
+    "rgb": "rgb(15, 139, 141)",
+    "hsl": "hsl(181, 81%, 31%)",
+    "timestamp": "2026-07-17T23:54:46.107Z"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#F7CAC9",
+    "rgb": "rgb(247, 202, 201)",
+    "hsl": "hsl(1, 74%, 88%)",
+    "timestamp": "2026-07-17T23:54:45.273Z"
+  },
+  {
+    "name": "Amber Glow",
+    "hex": "#FFB627",
+    "rgb": "rgb(255, 182, 39)",
+    "hsl": "hsl(40, 100%, 58%)",
+    "timestamp": "2026-07-17T23:54:44.156Z"
+  },
+  {
+    "name": "Sage Mist",
+    "hex": "#9CAF88",
+    "rgb": "rgb(156, 175, 136)",
+    "hsl": "hsl(89, 20%, 61%)",
+    "timestamp": "2026-07-17T23:54:43.706Z"
+  },
+  {
+    "name": "Coral Blush",
+    "hex": "#FF6F61",
+    "rgb": "rgb(255, 111, 97)",
+    "hsl": "hsl(5, 100%, 69%)",
+    "timestamp": "2026-07-17T23:54:43.228Z"
+  },
+  {
+    "name": "Midnight Indigo",
+    "hex": "#2C3E70",
+    "rgb": "rgb(44, 62, 112)",
+    "hsl": "hsl(224, 44%, 31%)",
+    "timestamp": "2026-07-17T23:54:41.879Z"
+  }
+]
