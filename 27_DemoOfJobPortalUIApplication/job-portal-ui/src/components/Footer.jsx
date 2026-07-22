@@ -152,6 +152,17 @@ const Footer = () => {
               <a className="group relative hover:text-white transition-colors duration-300">
                 <span className="relative z-10">Cookie Policy</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
+                <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 w-64 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 pointer-events-none z-20">
+                  <div className="bg-gray-800 border border-gray-700 rounded-xl shadow-xl p-4 text-left">
+                    <p className="text-xs text-gray-300 leading-relaxed normal-case font-normal">
+                      We use cookies to enhance your browsing experience,
+                      analyze site traffic, and personalize content. By
+                      continuing to use JobPortal, you agree to our use of
+                      cookies.
+                    </p>
+                  </div>
+                  <div className="w-3 h-3 bg-gray-800 border-r border-b border-gray-700 rotate-45 absolute left-1/2 -translate-x-1/2 -bottom-1.5"></div>
+                </div>
               </a>
               <Link
                 to="/contact"
